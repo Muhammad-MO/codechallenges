@@ -11,4 +11,4 @@ Most of all I am having a lot of fun with it!!
 # LeetCode
 
 1. [MoveZeros](https://leetcode.com/problems/move-zeroes/)
-2. [LongestSubstring](https://leetcode.com/problems/find-first-and-last-position-of-element-in-sorted-array/)
+2. [LongestSubstring](https://leetcode.com/problems/longest-substring-without-repeating-characters/)
