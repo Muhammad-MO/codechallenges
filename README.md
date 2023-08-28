@@ -10,4 +10,4 @@ Most of all I am having a lot of fun with it!!
 
 # LeetCode
 
-1. [Leetcode](https://leetcode.com/problems/move-zeroes/)
+1. [MoveZeros](https://leetcode.com/problems/move-zeroes/)
